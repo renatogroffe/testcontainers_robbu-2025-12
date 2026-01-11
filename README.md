@@ -11,7 +11,7 @@ Exemplos utilizados:
 
 Título da apresentação: **Testcontainers: turbinando e descomplicando a automação de Testes de Integração**
 
-Data: **17/12/2025 (sexta-feira)**
+Data: **17/12/2025 (quarta-feira)**
 
 Tipo do evento: **Online**
 
@@ -19,5 +19,6 @@ Ferramenta de transmissão: **Microsoft Teams**
 
 Tecnologias e tópicos abordados: **Containers, Testes de Integração, Docker, Testcontainers, .NET 10, C#, SQL Server, Azure DevOps, Azure Pipelines, Linux, Microsoft Foundry, Microsoft Agent Framework, Dapper, ADO.NET, Entity Framework Core, OpenTelemetry, Azure Application Insights...**
 
+Número de participantes: **? pessoas**
 
 Deixo aqui meus agradecimentos ao meu amigo **Milton Camara Gomes (Microsoft MVP)** por todo o apoio para que participássemos deste evento interno da [**Robbu Tecnologia**](https://robbu.global/home/)
