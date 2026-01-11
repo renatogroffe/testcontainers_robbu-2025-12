@@ -19,6 +19,6 @@ Ferramenta de transmissão: **Microsoft Teams**
 
 Tecnologias e tópicos abordados: **Containers, Testes de Integração, Docker, Testcontainers, .NET 10, C#, SQL Server, Azure DevOps, Azure Pipelines, Linux, Microsoft Foundry, Microsoft Agent Framework, Dapper, ADO.NET, Entity Framework Core, OpenTelemetry, Azure Application Insights...**
 
-Número de participantes: **? pessoas**
+Número de participantes: **15 pessoas**
 
 Deixo aqui meus agradecimentos ao meu amigo **Milton Camara Gomes (Microsoft MVP)** por todo o apoio para que participássemos deste evento interno da [**Robbu Tecnologia**](https://robbu.global/home/)
