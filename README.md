@@ -9,6 +9,8 @@ Exemplos utilizados:
 
 ## Informações sobre o evento
 
+Título da apresentação: **Testcontainers: turbinando e descomplicando a automação de Testes de Integração**
+
 Data: **17/12/2025 (sexta-feira)**
 
 Tipo do evento: **Online**
