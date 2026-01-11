@@ -29,6 +29,10 @@ Deixo aqui meus agradecimentos ao meu amigo **Milton Camara Gomes (Microsoft MVP
 
 ![Audiência](img/audiencia.png)
 
-![Renato palestrando 1](img/testcontainers-07.jpeg)
+![Renato palestrando 1](img/testcontainers-09.jpeg)
 
-![Renato palestrando 2](img/testcontainers-05.jpeg)
+![Renato palestrando 2](img/testcontainers-10.jpeg)
+
+![Renato palestrando 3](img/testcontainers-07.jpeg)
+
+![Renato palestrando 4](img/testcontainers-05.jpeg)
