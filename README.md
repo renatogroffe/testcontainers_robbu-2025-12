@@ -21,4 +21,14 @@ Tecnologias e tópicos abordados: **Containers, Testes de Integração, Docker, 
 
 Número de participantes: **15 pessoas**
 
+Acesse este [**link**](/img/) para visualizar todas as fotos/prints da apresentação.
+
 Deixo aqui meus agradecimentos ao meu amigo **Milton Camara Gomes (Microsoft MVP)** por todo o apoio para que participássemos deste evento interno da [**Robbu Tecnologia**](https://robbu.global/home/)
+
+---
+
+![Audiência](img/audiencia.png)
+
+![Renato palestrando 1](img/testcontainers-07.jpeg)
+
+![Renato palestrando 2](img/testcontainers-05.jpeg)
