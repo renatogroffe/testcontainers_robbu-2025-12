@@ -1,5 +1,5 @@
 # testcontainers_robbu-2025-12
-Slides e conteúdos de apresentação sobre Testcontainers. Palestra realizada no dia 17/12/2025, em evento para profissionais da Robbu Tecnologia.
+Slides e conteúdos de apresentação sobre Testcontainers. Palestra realizada no dia 16/12/2025, em evento para profissionais da Robbu Tecnologia.
 
 Exemplos utilizados:
 - Comparando a performance de Dapper x Entity Framework x ADO com SQL Server em .NET 10: https://github.com/renatogroffe/dotnet10-benchmarkdotnet-azuredevops-testcontainers-sqlserver
@@ -11,7 +11,7 @@ Exemplos utilizados:
 
 Título da apresentação: **Testcontainers: turbinando e descomplicando a automação de Testes de Integração**
 
-Data: **17/12/2025 (quarta-feira)**
+Data: **16/12/2025 (terça-feira)**
 
 Tipo do evento: **Online**
 
